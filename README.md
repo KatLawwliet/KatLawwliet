@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatLawwliet
-- 👀 I’m interested in ... La programacion orientada a objetos
-- 🌱 I’m currently learning ... Java orientado a objetos
+- 👀 I’m interested in ... Object oriented programming
+- 🌱 I’m currently learning ... Object oriented Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
