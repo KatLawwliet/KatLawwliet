@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KatLawwliet
+- 👋 Hi, I’m Jimena Belen
 - 👀 I’m interested in ... Object oriented programming
 - 🌱 I’m currently learning ... Object oriented Java
 - 💞️ I’m looking to collaborate on ...
